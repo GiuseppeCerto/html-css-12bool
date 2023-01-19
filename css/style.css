@@ -1,0 +1,19 @@
+[class^='col'] {
+    background-color: var(--blue);
+    padding: 15px ;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.nested{
+    background-color: var(--green);
+}
+
+section{
+    margin: 5px 0 20px 0;
+}
+.col-height{
+    padding: 0;
+    height: 50px;
+}
